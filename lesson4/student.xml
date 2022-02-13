@@ -1,0 +1,17 @@
+<student>
+    <firstName>John</firstName>
+    <age>21</age>
+    <averageMark>4.5</averageMark>
+    <hasVehicle>false</hasVehicle>
+    <friends>
+        <element>Anna</element>
+        <element>Floki</element>
+        <element>Gasdurbal</element>
+    </friends>
+    <address>
+        <country>USA</country>
+        <state>Florida</state>
+        <city>Miami</city>
+        <postal>12345</postal>
+    </address>
+</student>

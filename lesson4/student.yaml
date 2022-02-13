@@ -1,0 +1,15 @@
+student:
+  name: John
+  age: 21
+  averageMark: 4.5
+  hasVehicle: false
+  permanentPlaceOfLiving: null
+  friends:
+    - Anna
+    - Floki
+    - Gasdurbal
+  address:
+    country: USA
+    state: Florida
+    city: Miami
+    postal: 12345
